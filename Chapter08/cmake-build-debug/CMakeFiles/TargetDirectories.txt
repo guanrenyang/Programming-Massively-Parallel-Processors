@@ -1,0 +1,3 @@
+/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter8/cmake-build-debug/CMakeFiles/KoggeStoneExclusiveScan.dir

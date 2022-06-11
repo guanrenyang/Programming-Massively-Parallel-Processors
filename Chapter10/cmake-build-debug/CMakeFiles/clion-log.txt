@@ -1,0 +1,10 @@
+/snap/clion/190/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/190/bin/ninja/linux/ninja -G Ninja -S /home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter10 -B /home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter10/cmake-build-debug
+-- The CUDA compiler identification is NVIDIA 10.1.243
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: /usr/bin/nvcc - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter10/cmake-build-debug

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chapter7",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2DConvAdvanced::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2DConvAdvanced-Debug-f3a868c2d6c63effe4c9.json",
+					"name" : "2DConvAdvanced",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2DConvBasic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2DConvBasic-Debug-855fd4ce40e1f678c96c.json",
+					"name" : "2DConvBasic",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter7/cmake-build-debug",
+		"source" : "/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

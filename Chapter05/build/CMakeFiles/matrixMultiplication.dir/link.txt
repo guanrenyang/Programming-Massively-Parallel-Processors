@@ -1,0 +1,1 @@
+/usr/lib/nvidia-cuda-toolkit/bin/g++  CMakeFiles/matrixMultiplication.dir/matrixMultiplication.cu.o CMakeFiles/matrixMultiplication.dir/cmake_device_link.o -o matrixMultiplication  -L"/usr/lib/x86_64-linux-gnu/stubs" -L"/usr/lib/x86_64-linux-gnu" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

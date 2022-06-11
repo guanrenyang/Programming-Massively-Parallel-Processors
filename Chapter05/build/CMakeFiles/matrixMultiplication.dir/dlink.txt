@@ -1,0 +1,1 @@
+/usr/bin/nvcc   -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/matrixMultiplication.dir/matrixMultiplication.cu.o -o CMakeFiles/matrixMultiplication.dir/cmake_device_link.o 

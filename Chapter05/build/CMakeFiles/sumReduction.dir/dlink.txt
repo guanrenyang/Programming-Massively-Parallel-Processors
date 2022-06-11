@@ -1,0 +1,1 @@
+/usr/bin/nvcc   -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/sumReduction.dir/sumReduction.cu.o -o CMakeFiles/sumReduction.dir/cmake_device_link.o 

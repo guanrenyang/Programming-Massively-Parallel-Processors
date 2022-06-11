@@ -1,0 +1,5 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -G Ninja /home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter8
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: KoggeStoneExclusiveScan
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

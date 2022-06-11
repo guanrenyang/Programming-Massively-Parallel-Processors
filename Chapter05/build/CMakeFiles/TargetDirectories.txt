@@ -1,0 +1,4 @@
+/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter5/build/CMakeFiles/rebuild_cache.dir
+/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter5/build/CMakeFiles/edit_cache.dir
+/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter5/build/CMakeFiles/matrixMultiplication.dir
+/home/guanrenyang/Programming-Massively-Parallel-Processors/Chapter5/build/CMakeFiles/sumReduction.dir
