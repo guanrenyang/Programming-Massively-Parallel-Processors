@@ -2,9 +2,10 @@
 
 ## Introduction
 
-(In Process) Solutions of *Programming Massively Parallel Processors, 3rd*. 
 
-(进行中) 《大规模并行处理器编程实战（英文版）》（第三版）题解。
+Solutions of *Programming Massively Parallel Processors, 3rd* (**Currently working on 4th edition**).
+
+《大规模并行处理器编程实战（英文版）》（第三版）题解（正在完成第四版的题解）。
 
 *The exercises are almost the same as the 2nd.*
 
